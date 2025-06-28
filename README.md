@@ -45,8 +45,8 @@ python3 iphunter_gui.py
 
 🧠 مطور الأداة:
 
-https://fsocitey.tiiny.site/
 
+https://fsocitey.neocities.org/
 
 
 ---
